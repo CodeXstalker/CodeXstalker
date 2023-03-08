@@ -1,11 +1,11 @@
-[![MasterHead](https://c4.wallpaperflare.com/wallpaper/547/68/29/anime-light-digital-wallpaper-preview.jpg)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Shivansh Kumar</h1>
 <h3 align="center">A man on mission to make environment Collaboratively - Competitive with vision to LEARN . TEACH . CREATE.</h3>
-<img align="right" alt="Coding" width="400" src="https://c4.wallpaperflare.com/wallpaper/295/163/719/anime-anime-boys-picture-in-picture-kimetsu-no-yaiba-kamado-tanjir%C5%8D-hd-wallpaper-preview.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codexstalker&label=Profile%20views&color=0e75b6&style=flat" alt="codexstalker" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codexstalker" alt="codexstalker" /></a> </p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=codexstalker&label=Profile%20views&color=0e75b6&style=flat" alt="codexstalker" /> </p>
+
+
 
 <p align="left"> <a href="https://twitter.com/codexstalker" target="blank"><img src="https://img.shields.io/twitter/follow/codexstalker?logo=twitter&style=for-the-badge" alt="codexstalker" /></a> </p>
 
